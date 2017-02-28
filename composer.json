@@ -1,0 +1,14 @@
+{
+    "name": "hutushen222/baidu-lbsyun-php",
+    "description": "百度地图开放平台（PHP）",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack Hu",
+            "email": "hutushen222@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
